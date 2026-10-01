@@ -1,0 +1,13 @@
+# Python 관련 임시 파일
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# API 키 및 환경 변수 보안 파일
+.env
+
+# OS 및 IDE 설정 파일
+.vscode/
+.idea/
+Thumbs.db
